@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+body{
+    background-color: rgb(250, 236, 250);
+}
+h1{
+
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 45px;
+ 
+}
+
+img{
+    
+    width: 200px;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.conteudo-livro{
+    border: 6px rgb(216, 166, 175) solid ;
+    padding: 30px;
+}
+
+header{
+    background-color: rgb(216, 166, 175);
+   border-radius: 160px;
+    display: flex;
+}
+.logo{
+    width: 70px;
+    border-radius: 700px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+.nome{
+
+    font-family: "Merriweather", serif;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 12px;
+    margin-left: 330px;
+    font-weight: 700;
+}
+
+.conteudo-livro{
+    font-size: 25px;
+}
+
+.final{
+
+    margin-top: 20px;
+    font-size: 20;
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.titulo{
+
+    background-color: rgb(216, 166, 175) ;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Playfair Display", serif;
+}
+.foto{
+   
+    width: 300px;
+    font-family: "Playfair Display", serif;
+}
+.textoo{
+    font-size: 50px;
+    display: flex;
+}
+.texto{
+   margin-left: 10px;
+}
+.um{
+    text-align: center;
+}
+
+.lado{
+    display: flex;
+}
+
+.imagem{
+    height: 150px;
+    width: 150px;
+}
