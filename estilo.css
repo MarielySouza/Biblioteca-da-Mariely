@@ -74,6 +74,7 @@ header{
    
     width: 300px;
     font-family: "Playfair Display", serif;
+    border: 3px solid rgb(216, 166, 175)
 }
 .textoo{
     font-size: 50px;
