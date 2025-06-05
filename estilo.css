@@ -98,14 +98,17 @@ header{
 .acaba{
     background-color: rgb(216, 166, 175);
     text-align: center;
+    border-radius: 160px;
 }
 .começa{
     background-color: rgb(216, 166, 175);
     text-align: center;
+    border-radius: 160px;
 }
 .biblioteca{
     background-color: rgb(216, 166, 175);
     text-align: center;
+    border-radius: 160px;
 }
 .começaimg{
 display: flex;
