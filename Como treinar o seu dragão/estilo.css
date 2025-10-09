@@ -1,0 +1,81 @@
+.fundo{
+    border-left: 220px solid orange;
+    border-right: 220px solid orange;
+    
+    
+    
+    
+    
+
+}
+
+.corpo{
+
+   background-color: rgb(136, 127, 255);
+   padding-left: 15px;
+   padding-right: 15px;
+   
+}
+
+.resumo{
+    display: flex;
+    align-items: center;
+}
+
+.banner{
+    height: 250px;
+    border: 5px solid black;
+    
+}
+
+.linha1{
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+
+.tituloresumo{
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+
+.soluco{
+    width: 153px;
+
+}
+.atrid{
+    width: 150px;
+    
+}
+.cabecaq{
+    width: 115px;
+}
+.cabecad{
+    width: 85px;
+}
+.melequento{
+    width: 100px;
+}
+.pernadp{
+    width: 155px;
+}
+.valka{
+    width: 75px;
+}
+.stoico{
+    width: 130px;
+}
+.bocao{
+    width: 160px;
+}
+
+.personagens{
+    display: flex;
+    margin-right: 40px;
+    padding-left: 5px;
+}
+
+
+
+
